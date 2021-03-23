@@ -1,4 +1,4 @@
-# Aakruth Accounting and Inventory Management 
+# Accounting and Inventory Management 
 Aakruth is an accounting and inventory management Web Application.
 
 It have 2 modules 
